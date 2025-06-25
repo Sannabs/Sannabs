@@ -1,8 +1,7 @@
-<!--
-  👋 Welcome! Feel free to ⭐️ this README if you like what you see.
--->
 
-# 👋 Hello, I’m Sanna B.S Jammeh
+# :wave: Welcome! Feel free to ⭐️ this README if you like what you see.
+
+# :wave: Hello, I’m Sanna B.S Jammeh
 
 👩‍💻 I’m a Full-Stack Software Engineer building **Fixed-Asset Register SaaS**  
 🌱 I’m leveling up in **Next.js**, **Zustand** & **Stripe integration**  
@@ -30,7 +29,7 @@
 |---|---|
 | [fixed-asset-register](https://github.com/sannaBSJammeh/fixed-asset-register) | Multi-tenant SaaS platform for asset management |
 | [student-budget-helper](https://github.com/sannaBSJammeh/student-budget-helper) | Java & GUI app to track income, expenses & goals |
-| [mercujs](https://github.com/sannaBSJammeh/mercujs) | TypeScript library for ... |
+| [mercujs](https://github.com/sannaBSJammeh/mercujs) | TypeScript library for … |
 | [codeantai](https://github.com/sannaBSJammeh/codeantai) | AI-powered code assistant |
 
 ---
