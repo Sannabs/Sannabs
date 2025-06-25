@@ -1,63 +1,106 @@
+# 👋 Hello, I’m Sanna B.S Jammeh
 
-# :wave: Welcome! Feel free to ⭐️ this README if you like what you see.
-
-# :wave: Hello, I’m Sanna B.S Jammeh
-
-👩‍💻 I’m a Full-Stack Software Engineer building **Fixed-Asset Register SaaS**  
-🌱 I’m leveling up in **Next.js**, **Zustand** & **Stripe integration**  
-💬 Ask me about **JavaScript**, **React**, **Node.js**, **Express**, **MongoDB**, **Python**, **Java**  
-⚡ Fun fact: I code from dawn until dusk (with prayer & delicious jollof breaks!)
+> *Turning complex challenges into intuitive digital experiences since 2022*
 
 ---
 
-## 🛠️ My Tech Stack
+## 👩‍💻 About Me
 
-<p float="left">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="30"/>
-  <img alt="React"   src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="30"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="30"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="30"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="30"/>
-</p>
+```javascript
+const sanna = {
+  mission: "Crafting seamless, scalable web applications that solve real problems",
+  coreSkills: ["Full-Stack Architecture", "Performance Optimization", "User-Centric Design"],
+  superpower: "Translating complex requirements into intuitive interfaces",
+  currentFocus: "Building cutting-edge SaaS platforms",
+  funFact: "Can debug React hooks while cooking award-winning Jollof rice 🇬🇲",
+  workPhilosophy: "Code with purpose • Test with passion • Deploy with confidence"
+};
+```
 
----
-
-## 📫 You can contact me on:
-
-[![Email][mail-shield]][mail-url]
+Innovative and detail-oriented Full-Stack Developer advancing my BSc in Information Systems at University of The Gambia (CGPA: 3.40/4.30). Passionate about high-performance digital experiences that blend technical excellence with intuitive user interactions.
 
 ---
 
-## 🔍 You can find me on:
+## 🛠️ Tech Stack & Tools
 
-[![LinkedIn][linkedin-shield]][linkedin-url]  
-[![X (Twitter)][twitter-shield]][twitter-url]
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css\&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?logo=shadcnui\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+
+### DevOps & Tools
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
 
-## 🚀 Featured Repositories
+## 💼 Professional Highlights
 
-| Repo | Description |
-|---|---|
-| [fixed-asset-register](https://github.com/sannaBSJammeh/fixed-asset-register) | Multi-tenant SaaS platform for asset management |
-| [student-budget-helper](https://github.com/sannaBSJammeh/student-budget-helper) | Java & GUI app to track income, expenses & goals |
-| [mercujs](https://github.com/sannaBSJammeh/mercujs) | TypeScript library for … |
-| [codeantai](https://github.com/sannaBSJammeh/codeantai) | AI-powered code assistant |
+**Full-Stack Developer @ Coders Clutch Limited**
+*Nov 2024 – Mar 2025*
+
+* Built a secure booking system with RBAC (reduced errors by 25%)
+* Redesigned Oneworld Financial Services website (+15% mobile traffic)
+* Developed a telemedicine platform with video-call management
+* Led event-management system development with a team of four
+
+**Key Achievements**
+
+* 🏆 MRC Holland Scholarship (2022) for academic excellence
+* 🏆 Top 1% student recognition at Kotu Senior Secondary School
 
 ---
+
+## 🚀 Featured Projects
+
+| Project              | Tech Stack                      | Highlights                                           |
+| -------------------- | ------------------------------- | ---------------------------------------------------- |
+| **CarePulse**        | Next.js · TypeScript · Appwrite | Doctor appointment system · Real-time dashboards     |
+| **Threads**          | Next.js · Clerk                 | Secure social platform · Community features          |
+| **Subscription API** | Node · Express · MongoDB        | Automated payment reminders · Nodemailer integration |
+| **Neighborhood Hub** | EJS · Tailwind · Flowbite       | AJAX-driven community platform · Review system       |
+
+---
+
+## 🌍 Languages
+
+* 🇬🇧 English (Proficient)
+* 🇲🇳 Mandinka (Native)
+* 🇼🇸 Wolof (Proficient)
+
+---
+
+## ❤️ Interests
+
+🏋️ Fitness • 🥗 Nutrition • 💻 Crafting seamless user experiences
+
+---
+
+## 📬 Let’s Connect!
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sannabsjammeh)
+* 🐙 [GitHub](https://github.com/Sannabs)
+* 📧 [sannabsjammeh54@gmail.com](mailto:sannabsjammeh54@gmail.com)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Keep coding!"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding passion" />
+  <p><em>"First solve the problem. Then write the code." – John Johnson</em></p>
+  <p>⭐️ <strong>Pro Tip:</strong> Star my repos if you find something inspiring!</p>
 </div>
-
-<!-- Links & Shields -->
-[mail-shield]:     https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white
-[mail-url]:        mailto:sanna.jammeh@example.com
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white
-[linkedin-url]:    https://linkedin.com/in/your-linkedin
-[twitter-shield]:  https://img.shields.io/badge/-X%20(Twitter)-1DA1F2?logo=twitter&logoColor=white
-[twitter-url]:     https://twitter.com/your-handle
