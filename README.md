@@ -10,6 +10,22 @@
 
 ---
 
+## 🛠️ My Tech Stack
+
+<p float="left">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="30"/>
+  <img alt="React"   src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="30"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" height="30"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="30"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="30"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" height="30"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="30"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="30"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="30"/>
+</p>
+
+---
+
 ## 📫 You can contact me on:
 
 [![Email][mail-shield]][mail-url]
