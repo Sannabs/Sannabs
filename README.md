@@ -17,7 +17,7 @@ const sanna = {
 };
 ```
 
-Innovative and detail-oriented Full-Stack Developer advancing my BSc in Information Systems at University of The Gambia (CGPA: 3.40/4.30). Passionate about high-performance digital experiences that blend technical excellence with intuitive user interactions.
+Innovative and detail-oriented Full-Stack Developer advancing my BSc in Information Systems at University of The Gambia. Passionate about high-performance digital experiences that blend technical excellence with intuitive user interactions.
 
 ---
 
