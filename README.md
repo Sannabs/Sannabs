@@ -38,19 +38,19 @@ Innovative and detail-oriented Full-Stack Developer advancing my BSc in Informat
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite\&logoColor=white)
 
 ### DevOps & Tools
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
