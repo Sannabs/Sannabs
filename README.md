@@ -30,6 +30,7 @@ Innovative and detail-oriented Full-Stack Developer advancing my BSc in Informat
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css\&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?logo=shadcnui\&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-333?logo=Zustand&logoColor=white)
 
 ### Backend
 
@@ -37,6 +38,8 @@ Innovative and detail-oriented Full-Stack Developer advancing my BSc in Informat
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 ### Databases
 
@@ -46,6 +49,7 @@ Innovative and detail-oriented Full-Stack Developer advancing my BSc in Informat
 ### DevOps & Tools
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
@@ -59,7 +63,7 @@ Innovative and detail-oriented Full-Stack Developer advancing my BSc in Informat
 * Built a secure booking system with RBAC (reduced errors by 25%)
 * Redesigned Oneworld Financial Services website (+15% mobile traffic)
 * Developed a telemedicine platform with video-call management
-* Led event-management system development with a team of four
+* Developed event-management system with a team of four
 
 **Key Achievements**
 
