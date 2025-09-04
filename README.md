@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Sanna B.S Jammeh
 
 ## I might seem like an introvert… until you hand me a code editor. Then the party really starts! 🥳  
-## By day I build rock-solid SaaS apps; by night I dream in JSON—and sometimes even catch a bug or two in my sleep.
+## By day I build rock-solid SaaS apps; by night I dream in JSON and sometimes even catch a bug or two in my sleep.
 
 > *Turning complex challenges into intuitive digital experiences since 2022*
 
@@ -49,11 +49,14 @@ Innovative and detail-oriented Full-Stack Developer advancing my BSc in Informat
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel\&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
+![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?logo=digitalocean&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 
 ---
