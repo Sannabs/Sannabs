@@ -49,6 +49,7 @@ Final-year BSc Information Systems student at University of The Gambia (CGPA 3.5
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-38B2AC?logo=tailwindcss&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -72,9 +73,21 @@ Final-year BSc Information Systems student at University of The Gambia (CGPA 3.5
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0099FF?logo=render&logoColor=white)
 
-### Specializations
-**Security & Architecture:** JWT Authentication • Refresh Token Rotation • RBAC • Multi-Tenant Design • Audit Logging  
-**CI/CD & Testing:** Automated Testing • User Testing • Technical Documentation • Agile Development
+### Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-2.0-EB5424?logo=auth0&logoColor=white)
+
+### Architecture & Design Patterns
+![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-Architecture-blue)
+![RBAC](https://img.shields.io/badge/RBAC-Role--Based_Access-green)
+![RESTful API](https://img.shields.io/badge/RESTful-API_Design-orange)
+![Microservices](https://img.shields.io/badge/Microservices-Ready-purple)
+
+### Testing & Development Practices
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automated-success)
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue)
+![TDD](https://img.shields.io/badge/TDD-Test_Driven-green)
 
 ---
 
@@ -87,6 +100,9 @@ Final-year BSc Information Systems student at University of The Gambia (CGPA 3.5
 
 * 🎯 Solo-developed production-ready HR platform serving 60+ users across 10+ branches
 * 📱 Built contactless QR attendance system with GPS verification, improving attendance accuracy
+* ⏰ Implemented multi-shift management with personalized workdays per employee
+* 🤖 Built automated absent marking system based on company workday configurations
+* 📅 Developed event calendar with public holiday management and custom company workdays
 * 💰 Implemented automated payroll processing with tax profiles and PDF/Excel reporting
 * 🏗️ Designed scalable multi-tenant architecture (30+ API endpoints) serving 3+ companies
 * 🔐 Implemented comprehensive RBAC and audit logging across all modules
@@ -123,7 +139,7 @@ Final-year BSc Information Systems student at University of The Gambia (CGPA 3.5
 
 | Project | Tech Stack | Key Features |
 |---------|-----------|--------------|
-| **Enterprise HR Platform** | React • Node.js • PostgreSQL • Prisma | QR attendance with GPS • Automated payroll • Multi-tenant RBAC • Audit logging • Leave workflows |
+| **Enterprise HR Platform** | React • Node.js • PostgreSQL • Prisma | QR attendance with GPS • Multi-shift management • Personalized employee workdays • Automated absent marking • Event calendar & public holidays • Company workday config • Automated payroll • Multi-tenant RBAC • Audit logging • Leave workflows |
 | **Asset Management SaaS** | Next.js • Node.js • MongoDB | Multi-tenant asset register • JWT + refresh rotation • Analytics dashboard • Billing automation |
 
 ### Healthcare & Booking
