@@ -109,7 +109,7 @@ Final-year BSc Information Systems student at University of The Gambia (CGPA 3.5
 * 📧 Built multi-level leave approval workflows with automated email notifications
 * 📊 Created analytics dashboard to monitor system adoption and performance
 
-### Software Engineer | Datafin
+### Software Engineer | Datafin • Remote
 *February 2025 – Present*
 
 **Asset Management SaaS** (Next.js, Node.js, MongoDB)
