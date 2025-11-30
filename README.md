@@ -93,7 +93,7 @@ Final-year BSc Information Systems student at University of The Gambia (CGPA 3.5
 
 ## 💼 Professional Experience
 
-### Software Engineer Intern | Gomindz Inc
+### Software Engineer | Gomindz Inc
 *June 2025 – Present*
 
 **Enterprise HR Management SaaS** (React, Node.js, PostgreSQL, Prisma)
