@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sanna B.S Jammeh
 
-## Software Engineer | Full-Stack Developer | Building Enterprise SaaS Solutions
+## Software Engineer | Full-Stack Developer | Web and Mobile application developer
 ## Specializing in multi-tenant architectures, RBAC systems, and scalable web & mobile applications
 
 > *Transforming complex enterprise challenges into intuitive digital experiences since 2022*
