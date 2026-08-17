@@ -110,10 +110,6 @@ const sanna = {
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sannabs&layout=compact&hide_border=true&title_color=38BDF8&text_color=9FB4D4&bg_color=0B1220" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sannabs&hide_border=true&background=0B1220&stroke=1F3864&ring=38BDF8&fire=818CF8&currStreakLabel=38BDF8&sideLabels=9FB4D4&dates=5A6B85&currStreakNum=E6EDF7&sideNums=E6EDF7" alt="GitHub streak" />
-</p>
-
 ---
 
 ## Professional Experience
