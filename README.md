@@ -1,9 +1,5 @@
-<!--
-  Place header.svg in the same repo (e.g. /assets/header.svg) for the animated banner to render.
-  Replace the raw URL below with your own once pushed.
--->
 <p align="center">
-  <img src="./assets/header.svg" alt="Sanna B S Jammeh — Full-Stack Software Engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:1F3864,100:38BDF8&height=200&section=header&text=Sanna%20B%20S%20Jammeh&fontColor=E6EDF7&fontSize=44&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Sanna B S Jammeh — Full-Stack Software Engineer" width="100%" />
 </p>
 
 <p align="center">
